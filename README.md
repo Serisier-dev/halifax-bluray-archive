@@ -6,8 +6,8 @@ A searchable static archive of Blu-ray titles observed in the Halifax Public Lib
 
 ## Current snapshot
 
-- Archive titles: 759
-- Last checked against the live catalogue: August 6, 2026
+- Archive titles: 760
+- Last checked against the live catalogue: August 28, 2026
 - The archive preserves historical entries. Its count may exceed the current live catalogue when older records are withdrawn.
 - New records include direct links to their exact Halifax BiblioCommons pages.
 
